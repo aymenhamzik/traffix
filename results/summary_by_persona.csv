@@ -1,0 +1,501 @@
+persona,measure,scenario,controller,mean,std
+Ferjani (pedestrian),pedestrian wait (s),offpeak,fixed,31.33,0.76
+Ferjani (pedestrian),pedestrian wait (s),offpeak,actuated,14.87,0.62
+Ferjani (pedestrian),pedestrian wait (s),offpeak,junction_only,12.34,0.1
+Ferjani (pedestrian),pedestrian wait (s),offpeak,traffix_rules,13.47,0.44
+Ferjani (pedestrian),pedestrian wait (s),offpeak,traffix,12.77,0.47
+Ferjani (pedestrian),pedestrian wait (s),morning_peak,fixed,31.2,0.67
+Ferjani (pedestrian),pedestrian wait (s),morning_peak,actuated,15.74,0.62
+Ferjani (pedestrian),pedestrian wait (s),morning_peak,junction_only,13.22,0.39
+Ferjani (pedestrian),pedestrian wait (s),morning_peak,traffix_rules,14.35,0.44
+Ferjani (pedestrian),pedestrian wait (s),morning_peak,traffix,13.53,0.46
+Ferjani (pedestrian),pedestrian wait (s),evening_peak,fixed,30.25,1.7
+Ferjani (pedestrian),pedestrian wait (s),evening_peak,actuated,14.4,0.56
+Ferjani (pedestrian),pedestrian wait (s),evening_peak,junction_only,12.29,0.32
+Ferjani (pedestrian),pedestrian wait (s),evening_peak,traffix_rules,14.01,0.73
+Ferjani (pedestrian),pedestrian wait (s),evening_peak,traffix,12.95,0.55
+Ferjani (pedestrian),pedestrian wait (s),heavy,fixed,38.14,1.12
+Ferjani (pedestrian),pedestrian wait (s),heavy,actuated,45.54,5.41
+Ferjani (pedestrian),pedestrian wait (s),heavy,junction_only,22.88,2.75
+Ferjani (pedestrian),pedestrian wait (s),heavy,traffix_rules,24.32,4.77
+Ferjani (pedestrian),pedestrian wait (s),heavy,traffix,22.19,2.05
+Ferjani (pedestrian),pedestrian wait (s),incident,fixed,31.44,0.24
+Ferjani (pedestrian),pedestrian wait (s),incident,actuated,15.23,0.23
+Ferjani (pedestrian),pedestrian wait (s),incident,junction_only,14.46,0.2
+Ferjani (pedestrian),pedestrian wait (s),incident,traffix_rules,15.04,0.29
+Ferjani (pedestrian),pedestrian wait (s),incident,traffix,14.86,0.22
+Ferjani (pedestrian),pedestrian wait (s),emergency,fixed,30.33,0.19
+Ferjani (pedestrian),pedestrian wait (s),emergency,actuated,14.42,0.52
+Ferjani (pedestrian),pedestrian wait (s),emergency,junction_only,12.29,0.31
+Ferjani (pedestrian),pedestrian wait (s),emergency,traffix_rules,13.86,0.07
+Ferjani (pedestrian),pedestrian wait (s),emergency,traffix,13.1,0.63
+Ferjani (pedestrian),pedestrian wait (s),rain,fixed,31.31,0.33
+Ferjani (pedestrian),pedestrian wait (s),rain,actuated,20.72,1.06
+Ferjani (pedestrian),pedestrian wait (s),rain,junction_only,15.39,1.01
+Ferjani (pedestrian),pedestrian wait (s),rain,traffix_rules,21.67,0.18
+Ferjani (pedestrian),pedestrian wait (s),rain,traffix,19.01,0.85
+Ferjani (pedestrian),pedestrian wait (s),bus_disruption,fixed,31.06,0.67
+Ferjani (pedestrian),pedestrian wait (s),bus_disruption,actuated,15.2,0.23
+Ferjani (pedestrian),pedestrian wait (s),bus_disruption,junction_only,12.39,0.32
+Ferjani (pedestrian),pedestrian wait (s),bus_disruption,traffix_rules,13.94,0.39
+Ferjani (pedestrian),pedestrian wait (s),bus_disruption,traffix,13.48,0.49
+Ferjani (pedestrian),pedestrian wait (s),rush_transition,fixed,30.44,1.05
+Ferjani (pedestrian),pedestrian wait (s),rush_transition,actuated,15.19,0.28
+Ferjani (pedestrian),pedestrian wait (s),rush_transition,junction_only,13.27,0.2
+Ferjani (pedestrian),pedestrian wait (s),rush_transition,traffix_rules,14.47,0.24
+Ferjani (pedestrian),pedestrian wait (s),rush_transition,traffix,13.75,0.06
+Ferjani (pedestrian),pedestrian wait (s),ramadan_pre_iftar,fixed,31.1,0.84
+Ferjani (pedestrian),pedestrian wait (s),ramadan_pre_iftar,actuated,16.48,0.87
+Ferjani (pedestrian),pedestrian wait (s),ramadan_pre_iftar,junction_only,13.39,0.52
+Ferjani (pedestrian),pedestrian wait (s),ramadan_pre_iftar,traffix_rules,13.79,0.57
+Ferjani (pedestrian),pedestrian wait (s),ramadan_pre_iftar,traffix,13.59,0.31
+Ferjani (pedestrian),pedestrian wait (s),pre_eid_shopping,fixed,29.84,1.76
+Ferjani (pedestrian),pedestrian wait (s),pre_eid_shopping,actuated,14.35,0.04
+Ferjani (pedestrian),pedestrian wait (s),pre_eid_shopping,junction_only,11.02,0.31
+Ferjani (pedestrian),pedestrian wait (s),pre_eid_shopping,traffix_rules,12.9,0.4
+Ferjani (pedestrian),pedestrian wait (s),pre_eid_shopping,traffix,12.07,0.2
+Ferjani (pedestrian),pedestrian wait (s),combined,fixed,31.91,0.82
+Ferjani (pedestrian),pedestrian wait (s),combined,actuated,15.55,0.83
+Ferjani (pedestrian),pedestrian wait (s),combined,junction_only,12.98,0.1
+Ferjani (pedestrian),pedestrian wait (s),combined,traffix_rules,17.51,0.34
+Ferjani (pedestrian),pedestrian wait (s),combined,traffix,17.1,0.45
+Ferjani (pedestrian),clearance truncations,offpeak,fixed,771.67,32.25
+Ferjani (pedestrian),clearance truncations,offpeak,actuated,1025.67,59.72
+Ferjani (pedestrian),clearance truncations,offpeak,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,offpeak,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,offpeak,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,morning_peak,fixed,955.0,43.31
+Ferjani (pedestrian),clearance truncations,morning_peak,actuated,1240.0,37.03
+Ferjani (pedestrian),clearance truncations,morning_peak,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,morning_peak,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,morning_peak,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,evening_peak,fixed,894.0,31.51
+Ferjani (pedestrian),clearance truncations,evening_peak,actuated,1168.67,33.2
+Ferjani (pedestrian),clearance truncations,evening_peak,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,evening_peak,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,evening_peak,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,heavy,fixed,1712.67,20.74
+Ferjani (pedestrian),clearance truncations,heavy,actuated,1704.0,93.74
+Ferjani (pedestrian),clearance truncations,heavy,junction_only,8.67,2.89
+Ferjani (pedestrian),clearance truncations,heavy,traffix_rules,1.33,2.31
+Ferjani (pedestrian),clearance truncations,heavy,traffix,4.67,4.51
+Ferjani (pedestrian),clearance truncations,incident,fixed,941.0,6.93
+Ferjani (pedestrian),clearance truncations,incident,actuated,1196.0,20.3
+Ferjani (pedestrian),clearance truncations,incident,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,incident,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,incident,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,emergency,fixed,724.67,23.03
+Ferjani (pedestrian),clearance truncations,emergency,actuated,997.33,29.67
+Ferjani (pedestrian),clearance truncations,emergency,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,emergency,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,emergency,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,rain,fixed,912.0,37.32
+Ferjani (pedestrian),clearance truncations,rain,actuated,1076.0,15.62
+Ferjani (pedestrian),clearance truncations,rain,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,rain,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,rain,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,bus_disruption,fixed,926.33,53.41
+Ferjani (pedestrian),clearance truncations,bus_disruption,actuated,1192.67,60.05
+Ferjani (pedestrian),clearance truncations,bus_disruption,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,bus_disruption,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,bus_disruption,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,rush_transition,fixed,2593.33,96.42
+Ferjani (pedestrian),clearance truncations,rush_transition,actuated,3336.0,80.21
+Ferjani (pedestrian),clearance truncations,rush_transition,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,rush_transition,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,rush_transition,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,ramadan_pre_iftar,fixed,931.67,11.02
+Ferjani (pedestrian),clearance truncations,ramadan_pre_iftar,actuated,1181.67,27.15
+Ferjani (pedestrian),clearance truncations,ramadan_pre_iftar,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,ramadan_pre_iftar,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,ramadan_pre_iftar,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,pre_eid_shopping,fixed,657.0,50.24
+Ferjani (pedestrian),clearance truncations,pre_eid_shopping,actuated,895.67,10.97
+Ferjani (pedestrian),clearance truncations,pre_eid_shopping,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,pre_eid_shopping,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,pre_eid_shopping,traffix,0.0,0.0
+Ferjani (pedestrian),clearance truncations,combined,fixed,914.67,36.12
+Ferjani (pedestrian),clearance truncations,combined,actuated,1186.67,16.8
+Ferjani (pedestrian),clearance truncations,combined,junction_only,0.0,0.0
+Ferjani (pedestrian),clearance truncations,combined,traffix_rules,0.0,0.0
+Ferjani (pedestrian),clearance truncations,combined,traffix,0.0,0.0
+Faycel (car driver),car wait (s),offpeak,fixed,33.47,1.78
+Faycel (car driver),car wait (s),offpeak,actuated,15.82,0.74
+Faycel (car driver),car wait (s),offpeak,junction_only,16.3,0.87
+Faycel (car driver),car wait (s),offpeak,traffix_rules,14.99,0.86
+Faycel (car driver),car wait (s),offpeak,traffix,15.1,1.07
+Faycel (car driver),car wait (s),morning_peak,fixed,36.97,0.57
+Faycel (car driver),car wait (s),morning_peak,actuated,20.41,0.77
+Faycel (car driver),car wait (s),morning_peak,junction_only,19.17,0.44
+Faycel (car driver),car wait (s),morning_peak,traffix_rules,18.65,1.08
+Faycel (car driver),car wait (s),morning_peak,traffix,18.42,0.7
+Faycel (car driver),car wait (s),evening_peak,fixed,34.42,0.49
+Faycel (car driver),car wait (s),evening_peak,actuated,18.71,1.09
+Faycel (car driver),car wait (s),evening_peak,junction_only,18.52,0.98
+Faycel (car driver),car wait (s),evening_peak,traffix_rules,17.69,0.53
+Faycel (car driver),car wait (s),evening_peak,traffix,18.0,0.11
+Faycel (car driver),car wait (s),heavy,fixed,392.56,25.67
+Faycel (car driver),car wait (s),heavy,actuated,405.2,62.87
+Faycel (car driver),car wait (s),heavy,junction_only,290.47,57.45
+Faycel (car driver),car wait (s),heavy,traffix_rules,226.71,13.99
+Faycel (car driver),car wait (s),heavy,traffix,234.45,19.32
+Faycel (car driver),car wait (s),incident,fixed,35.11,1.55
+Faycel (car driver),car wait (s),incident,actuated,18.86,0.61
+Faycel (car driver),car wait (s),incident,junction_only,20.97,0.52
+Faycel (car driver),car wait (s),incident,traffix_rules,20.6,0.95
+Faycel (car driver),car wait (s),incident,traffix,19.86,0.52
+Faycel (car driver),car wait (s),emergency,fixed,32.76,0.88
+Faycel (car driver),car wait (s),emergency,actuated,15.91,0.34
+Faycel (car driver),car wait (s),emergency,junction_only,15.87,0.89
+Faycel (car driver),car wait (s),emergency,traffix_rules,15.97,0.22
+Faycel (car driver),car wait (s),emergency,traffix,15.97,0.32
+Faycel (car driver),car wait (s),rain,fixed,128.02,14.91
+Faycel (car driver),car wait (s),rain,actuated,114.46,10.96
+Faycel (car driver),car wait (s),rain,junction_only,125.8,1.84
+Faycel (car driver),car wait (s),rain,traffix_rules,140.82,3.41
+Faycel (car driver),car wait (s),rain,traffix,123.33,6.79
+Faycel (car driver),car wait (s),bus_disruption,fixed,36.73,0.42
+Faycel (car driver),car wait (s),bus_disruption,actuated,19.61,0.86
+Faycel (car driver),car wait (s),bus_disruption,junction_only,19.42,0.54
+Faycel (car driver),car wait (s),bus_disruption,traffix_rules,18.39,0.19
+Faycel (car driver),car wait (s),bus_disruption,traffix,18.44,0.76
+Faycel (car driver),car wait (s),rush_transition,fixed,36.7,0.65
+Faycel (car driver),car wait (s),rush_transition,actuated,19.87,0.69
+Faycel (car driver),car wait (s),rush_transition,junction_only,19.73,0.55
+Faycel (car driver),car wait (s),rush_transition,traffix_rules,18.46,0.83
+Faycel (car driver),car wait (s),rush_transition,traffix,18.28,0.43
+Faycel (car driver),car wait (s),ramadan_pre_iftar,fixed,37.41,1.38
+Faycel (car driver),car wait (s),ramadan_pre_iftar,actuated,23.09,1.47
+Faycel (car driver),car wait (s),ramadan_pre_iftar,junction_only,22.34,1.46
+Faycel (car driver),car wait (s),ramadan_pre_iftar,traffix_rules,22.1,1.49
+Faycel (car driver),car wait (s),ramadan_pre_iftar,traffix,21.1,0.76
+Faycel (car driver),car wait (s),pre_eid_shopping,fixed,40.84,1.82
+Faycel (car driver),car wait (s),pre_eid_shopping,actuated,20.3,0.69
+Faycel (car driver),car wait (s),pre_eid_shopping,junction_only,21.69,0.94
+Faycel (car driver),car wait (s),pre_eid_shopping,traffix_rules,18.78,0.92
+Faycel (car driver),car wait (s),pre_eid_shopping,traffix,18.58,0.44
+Faycel (car driver),car wait (s),combined,fixed,34.36,1.19
+Faycel (car driver),car wait (s),combined,actuated,19.75,0.97
+Faycel (car driver),car wait (s),combined,junction_only,18.22,1.23
+Faycel (car driver),car wait (s),combined,traffix_rules,22.94,0.78
+Faycel (car driver),car wait (s),combined,traffix,22.93,1.85
+Faycel (car driver),P95 trip (s),offpeak,fixed,285.67,4.93
+Faycel (car driver),P95 trip (s),offpeak,actuated,242.67,4.51
+Faycel (car driver),P95 trip (s),offpeak,junction_only,245.67,4.04
+Faycel (car driver),P95 trip (s),offpeak,traffix_rules,240.33,8.14
+Faycel (car driver),P95 trip (s),offpeak,traffix,240.67,4.04
+Faycel (car driver),P95 trip (s),morning_peak,fixed,299.0,7.0
+Faycel (car driver),P95 trip (s),morning_peak,actuated,255.67,3.21
+Faycel (car driver),P95 trip (s),morning_peak,junction_only,256.67,3.21
+Faycel (car driver),P95 trip (s),morning_peak,traffix_rules,254.0,5.2
+Faycel (car driver),P95 trip (s),morning_peak,traffix,252.67,2.08
+Faycel (car driver),P95 trip (s),evening_peak,fixed,289.0,5.29
+Faycel (car driver),P95 trip (s),evening_peak,actuated,248.67,3.51
+Faycel (car driver),P95 trip (s),evening_peak,junction_only,252.67,5.77
+Faycel (car driver),P95 trip (s),evening_peak,traffix_rules,248.67,4.04
+Faycel (car driver),P95 trip (s),evening_peak,traffix,250.33,1.53
+Faycel (car driver),P95 trip (s),heavy,fixed,2267.0,150.57
+Faycel (car driver),P95 trip (s),heavy,actuated,2193.0,259.75
+Faycel (car driver),P95 trip (s),heavy,junction_only,1969.67,387.68
+Faycel (car driver),P95 trip (s),heavy,traffix_rules,1623.33,86.12
+Faycel (car driver),P95 trip (s),heavy,traffix,1658.33,99.5
+Faycel (car driver),P95 trip (s),incident,fixed,289.67,5.77
+Faycel (car driver),P95 trip (s),incident,actuated,250.67,0.58
+Faycel (car driver),P95 trip (s),incident,junction_only,261.67,3.51
+Faycel (car driver),P95 trip (s),incident,traffix_rules,263.0,6.24
+Faycel (car driver),P95 trip (s),incident,traffix,258.67,3.21
+Faycel (car driver),P95 trip (s),emergency,fixed,284.33,5.03
+Faycel (car driver),P95 trip (s),emergency,actuated,240.67,2.08
+Faycel (car driver),P95 trip (s),emergency,junction_only,244.33,4.04
+Faycel (car driver),P95 trip (s),emergency,traffix_rules,240.67,2.08
+Faycel (car driver),P95 trip (s),emergency,traffix,243.33,0.58
+Faycel (car driver),P95 trip (s),rain,fixed,884.33,108.21
+Faycel (car driver),P95 trip (s),rain,actuated,818.33,86.15
+Faycel (car driver),P95 trip (s),rain,junction_only,1004.33,65.06
+Faycel (car driver),P95 trip (s),rain,traffix_rules,1096.33,120.51
+Faycel (car driver),P95 trip (s),rain,traffix,949.67,31.94
+Faycel (car driver),P95 trip (s),bus_disruption,fixed,296.67,2.08
+Faycel (car driver),P95 trip (s),bus_disruption,actuated,255.33,3.51
+Faycel (car driver),P95 trip (s),bus_disruption,junction_only,259.0,2.0
+Faycel (car driver),P95 trip (s),bus_disruption,traffix_rules,253.67,2.08
+Faycel (car driver),P95 trip (s),bus_disruption,traffix,253.0,1.73
+Faycel (car driver),P95 trip (s),rush_transition,fixed,300.33,4.04
+Faycel (car driver),P95 trip (s),rush_transition,actuated,256.33,4.73
+Faycel (car driver),P95 trip (s),rush_transition,junction_only,259.0,3.61
+Faycel (car driver),P95 trip (s),rush_transition,traffix_rules,255.33,6.66
+Faycel (car driver),P95 trip (s),rush_transition,traffix,254.33,4.04
+Faycel (car driver),P95 trip (s),ramadan_pre_iftar,fixed,302.33,9.5
+Faycel (car driver),P95 trip (s),ramadan_pre_iftar,actuated,267.33,11.15
+Faycel (car driver),P95 trip (s),ramadan_pre_iftar,junction_only,272.0,13.11
+Faycel (car driver),P95 trip (s),ramadan_pre_iftar,traffix_rules,271.0,10.39
+Faycel (car driver),P95 trip (s),ramadan_pre_iftar,traffix,267.33,3.51
+Faycel (car driver),P95 trip (s),pre_eid_shopping,fixed,346.33,17.79
+Faycel (car driver),P95 trip (s),pre_eid_shopping,actuated,274.33,1.53
+Faycel (car driver),P95 trip (s),pre_eid_shopping,junction_only,299.33,7.64
+Faycel (car driver),P95 trip (s),pre_eid_shopping,traffix_rules,282.67,9.45
+Faycel (car driver),P95 trip (s),pre_eid_shopping,traffix,279.67,9.29
+Faycel (car driver),P95 trip (s),combined,fixed,323.33,3.51
+Faycel (car driver),P95 trip (s),combined,actuated,289.67,5.86
+Faycel (car driver),P95 trip (s),combined,junction_only,290.0,8.72
+Faycel (car driver),P95 trip (s),combined,traffix_rules,307.0,7.81
+Faycel (car driver),P95 trip (s),combined,traffix,303.67,12.58
+Faycel (car driver),unfinished trips,offpeak,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,offpeak,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,offpeak,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,offpeak,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,offpeak,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,morning_peak,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,morning_peak,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,morning_peak,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,morning_peak,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,morning_peak,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,evening_peak,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,evening_peak,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,evening_peak,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,evening_peak,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,evening_peak,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,heavy,fixed,1056.67,122.32
+Faycel (car driver),unfinished trips,heavy,actuated,1304.0,165.56
+Faycel (car driver),unfinished trips,heavy,junction_only,1009.67,452.14
+Faycel (car driver),unfinished trips,heavy,traffix_rules,831.33,725.44
+Faycel (car driver),unfinished trips,heavy,traffix,1092.33,184.5
+Faycel (car driver),unfinished trips,incident,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,incident,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,incident,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,incident,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,incident,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,emergency,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,emergency,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,emergency,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,emergency,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,emergency,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,rain,fixed,37.0,21.7
+Faycel (car driver),unfinished trips,rain,actuated,31.0,14.73
+Faycel (car driver),unfinished trips,rain,junction_only,35.33,22.23
+Faycel (car driver),unfinished trips,rain,traffix_rules,41.0,32.05
+Faycel (car driver),unfinished trips,rain,traffix,35.0,21.66
+Faycel (car driver),unfinished trips,bus_disruption,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,bus_disruption,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,bus_disruption,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,bus_disruption,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,bus_disruption,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,rush_transition,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,rush_transition,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,rush_transition,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,rush_transition,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,rush_transition,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,ramadan_pre_iftar,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,ramadan_pre_iftar,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,ramadan_pre_iftar,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,ramadan_pre_iftar,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,ramadan_pre_iftar,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,pre_eid_shopping,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,pre_eid_shopping,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,pre_eid_shopping,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,pre_eid_shopping,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,pre_eid_shopping,traffix,0.0,0.0
+Faycel (car driver),unfinished trips,combined,fixed,0.0,0.0
+Faycel (car driver),unfinished trips,combined,actuated,0.0,0.0
+Faycel (car driver),unfinished trips,combined,junction_only,0.0,0.0
+Faycel (car driver),unfinished trips,combined,traffix_rules,0.0,0.0
+Faycel (car driver),unfinished trips,combined,traffix,0.0,0.0
+Bus driver / Mamadou,bus headway variation,offpeak,fixed,0.42,0.02
+Bus driver / Mamadou,bus headway variation,offpeak,actuated,0.42,0.02
+Bus driver / Mamadou,bus headway variation,offpeak,junction_only,0.41,0.03
+Bus driver / Mamadou,bus headway variation,offpeak,traffix_rules,0.4,0.02
+Bus driver / Mamadou,bus headway variation,offpeak,traffix,0.4,0.03
+Bus driver / Mamadou,bus headway variation,morning_peak,fixed,0.37,0.03
+Bus driver / Mamadou,bus headway variation,morning_peak,actuated,0.35,0.03
+Bus driver / Mamadou,bus headway variation,morning_peak,junction_only,0.35,0.04
+Bus driver / Mamadou,bus headway variation,morning_peak,traffix_rules,0.35,0.04
+Bus driver / Mamadou,bus headway variation,morning_peak,traffix,0.34,0.04
+Bus driver / Mamadou,bus headway variation,evening_peak,fixed,0.41,0.01
+Bus driver / Mamadou,bus headway variation,evening_peak,actuated,0.4,0.02
+Bus driver / Mamadou,bus headway variation,evening_peak,junction_only,0.4,0.02
+Bus driver / Mamadou,bus headway variation,evening_peak,traffix_rules,0.39,0.03
+Bus driver / Mamadou,bus headway variation,evening_peak,traffix,0.39,0.02
+Bus driver / Mamadou,bus headway variation,heavy,fixed,0.55,0.02
+Bus driver / Mamadou,bus headway variation,heavy,actuated,0.73,0.21
+Bus driver / Mamadou,bus headway variation,heavy,junction_only,0.54,0.11
+Bus driver / Mamadou,bus headway variation,heavy,traffix_rules,0.48,0.12
+Bus driver / Mamadou,bus headway variation,heavy,traffix,0.49,0.16
+Bus driver / Mamadou,bus headway variation,incident,fixed,0.4,0.04
+Bus driver / Mamadou,bus headway variation,incident,actuated,0.41,0.06
+Bus driver / Mamadou,bus headway variation,incident,junction_only,0.41,0.04
+Bus driver / Mamadou,bus headway variation,incident,traffix_rules,0.41,0.04
+Bus driver / Mamadou,bus headway variation,incident,traffix,0.4,0.04
+Bus driver / Mamadou,bus headway variation,emergency,fixed,0.39,0.03
+Bus driver / Mamadou,bus headway variation,emergency,actuated,0.38,0.02
+Bus driver / Mamadou,bus headway variation,emergency,junction_only,0.38,0.01
+Bus driver / Mamadou,bus headway variation,emergency,traffix_rules,0.37,0.02
+Bus driver / Mamadou,bus headway variation,emergency,traffix,0.37,0.01
+Bus driver / Mamadou,bus headway variation,rain,fixed,0.54,0.04
+Bus driver / Mamadou,bus headway variation,rain,actuated,0.48,0.08
+Bus driver / Mamadou,bus headway variation,rain,junction_only,0.51,0.06
+Bus driver / Mamadou,bus headway variation,rain,traffix_rules,0.48,0.07
+Bus driver / Mamadou,bus headway variation,rain,traffix,0.48,0.07
+Bus driver / Mamadou,bus headway variation,bus_disruption,fixed,0.48,0.05
+Bus driver / Mamadou,bus headway variation,bus_disruption,actuated,0.46,0.04
+Bus driver / Mamadou,bus headway variation,bus_disruption,junction_only,0.46,0.04
+Bus driver / Mamadou,bus headway variation,bus_disruption,traffix_rules,0.47,0.04
+Bus driver / Mamadou,bus headway variation,bus_disruption,traffix,0.46,0.05
+Bus driver / Mamadou,bus headway variation,rush_transition,fixed,0.4,0.01
+Bus driver / Mamadou,bus headway variation,rush_transition,actuated,0.39,0.01
+Bus driver / Mamadou,bus headway variation,rush_transition,junction_only,0.4,0.01
+Bus driver / Mamadou,bus headway variation,rush_transition,traffix_rules,0.39,0.01
+Bus driver / Mamadou,bus headway variation,rush_transition,traffix,0.39,0.01
+Bus driver / Mamadou,bus headway variation,ramadan_pre_iftar,fixed,0.41,0.06
+Bus driver / Mamadou,bus headway variation,ramadan_pre_iftar,actuated,0.39,0.05
+Bus driver / Mamadou,bus headway variation,ramadan_pre_iftar,junction_only,0.39,0.06
+Bus driver / Mamadou,bus headway variation,ramadan_pre_iftar,traffix_rules,0.38,0.05
+Bus driver / Mamadou,bus headway variation,ramadan_pre_iftar,traffix,0.39,0.05
+Bus driver / Mamadou,bus headway variation,pre_eid_shopping,fixed,0.39,0.05
+Bus driver / Mamadou,bus headway variation,pre_eid_shopping,actuated,0.39,0.05
+Bus driver / Mamadou,bus headway variation,pre_eid_shopping,junction_only,0.37,0.03
+Bus driver / Mamadou,bus headway variation,pre_eid_shopping,traffix_rules,0.39,0.04
+Bus driver / Mamadou,bus headway variation,pre_eid_shopping,traffix,0.37,0.03
+Bus driver / Mamadou,bus headway variation,combined,fixed,0.38,0.0
+Bus driver / Mamadou,bus headway variation,combined,actuated,0.36,0.02
+Bus driver / Mamadou,bus headway variation,combined,junction_only,0.35,0.02
+Bus driver / Mamadou,bus headway variation,combined,traffix_rules,0.33,0.01
+Bus driver / Mamadou,bus headway variation,combined,traffix,0.35,0.02
+Bus driver / Mamadou,bus trip (s),offpeak,fixed,140.74,1.96
+Bus driver / Mamadou,bus trip (s),offpeak,actuated,126.76,3.88
+Bus driver / Mamadou,bus trip (s),offpeak,junction_only,128.56,2.21
+Bus driver / Mamadou,bus trip (s),offpeak,traffix_rules,124.81,1.72
+Bus driver / Mamadou,bus trip (s),offpeak,traffix,124.61,1.8
+Bus driver / Mamadou,bus trip (s),morning_peak,fixed,143.42,2.23
+Bus driver / Mamadou,bus trip (s),morning_peak,actuated,128.23,1.64
+Bus driver / Mamadou,bus trip (s),morning_peak,junction_only,130.57,0.53
+Bus driver / Mamadou,bus trip (s),morning_peak,traffix_rules,124.93,1.4
+Bus driver / Mamadou,bus trip (s),morning_peak,traffix,127.5,1.63
+Bus driver / Mamadou,bus trip (s),evening_peak,fixed,142.3,3.9
+Bus driver / Mamadou,bus trip (s),evening_peak,actuated,128.85,1.68
+Bus driver / Mamadou,bus trip (s),evening_peak,junction_only,130.88,1.74
+Bus driver / Mamadou,bus trip (s),evening_peak,traffix_rules,127.08,2.68
+Bus driver / Mamadou,bus trip (s),evening_peak,traffix,127.25,2.22
+Bus driver / Mamadou,bus trip (s),heavy,fixed,299.55,50.91
+Bus driver / Mamadou,bus trip (s),heavy,actuated,329.06,50.55
+Bus driver / Mamadou,bus trip (s),heavy,junction_only,252.46,52.86
+Bus driver / Mamadou,bus trip (s),heavy,traffix_rules,210.89,36.34
+Bus driver / Mamadou,bus trip (s),heavy,traffix,244.04,28.46
+Bus driver / Mamadou,bus trip (s),incident,fixed,143.48,2.27
+Bus driver / Mamadou,bus trip (s),incident,actuated,130.74,1.79
+Bus driver / Mamadou,bus trip (s),incident,junction_only,132.38,1.91
+Bus driver / Mamadou,bus trip (s),incident,traffix_rules,130.32,1.3
+Bus driver / Mamadou,bus trip (s),incident,traffix,127.33,2.38
+Bus driver / Mamadou,bus trip (s),emergency,fixed,139.25,1.2
+Bus driver / Mamadou,bus trip (s),emergency,actuated,127.4,1.3
+Bus driver / Mamadou,bus trip (s),emergency,junction_only,127.67,0.74
+Bus driver / Mamadou,bus trip (s),emergency,traffix_rules,126.49,2.27
+Bus driver / Mamadou,bus trip (s),emergency,traffix,124.67,2.43
+Bus driver / Mamadou,bus trip (s),rain,fixed,209.61,10.75
+Bus driver / Mamadou,bus trip (s),rain,actuated,186.11,12.57
+Bus driver / Mamadou,bus trip (s),rain,junction_only,188.52,10.9
+Bus driver / Mamadou,bus trip (s),rain,traffix_rules,193.75,18.43
+Bus driver / Mamadou,bus trip (s),rain,traffix,185.67,10.5
+Bus driver / Mamadou,bus trip (s),bus_disruption,fixed,141.1,2.37
+Bus driver / Mamadou,bus trip (s),bus_disruption,actuated,128.88,1.32
+Bus driver / Mamadou,bus trip (s),bus_disruption,junction_only,129.86,0.46
+Bus driver / Mamadou,bus trip (s),bus_disruption,traffix_rules,125.16,1.18
+Bus driver / Mamadou,bus trip (s),bus_disruption,traffix,126.28,1.25
+Bus driver / Mamadou,bus trip (s),rush_transition,fixed,143.8,1.63
+Bus driver / Mamadou,bus trip (s),rush_transition,actuated,127.86,0.84
+Bus driver / Mamadou,bus trip (s),rush_transition,junction_only,129.38,0.41
+Bus driver / Mamadou,bus trip (s),rush_transition,traffix_rules,126.5,1.39
+Bus driver / Mamadou,bus trip (s),rush_transition,traffix,127.65,0.66
+Bus driver / Mamadou,bus trip (s),ramadan_pre_iftar,fixed,146.78,3.66
+Bus driver / Mamadou,bus trip (s),ramadan_pre_iftar,actuated,133.51,3.7
+Bus driver / Mamadou,bus trip (s),ramadan_pre_iftar,junction_only,133.88,2.02
+Bus driver / Mamadou,bus trip (s),ramadan_pre_iftar,traffix_rules,131.29,0.6
+Bus driver / Mamadou,bus trip (s),ramadan_pre_iftar,traffix,129.32,2.6
+Bus driver / Mamadou,bus trip (s),pre_eid_shopping,fixed,140.51,1.45
+Bus driver / Mamadou,bus trip (s),pre_eid_shopping,actuated,128.28,4.54
+Bus driver / Mamadou,bus trip (s),pre_eid_shopping,junction_only,125.16,0.42
+Bus driver / Mamadou,bus trip (s),pre_eid_shopping,traffix_rules,123.08,1.7
+Bus driver / Mamadou,bus trip (s),pre_eid_shopping,traffix,121.16,0.94
+Bus driver / Mamadou,bus trip (s),combined,fixed,167.52,1.96
+Bus driver / Mamadou,bus trip (s),combined,actuated,142.85,3.14
+Bus driver / Mamadou,bus trip (s),combined,junction_only,141.62,0.12
+Bus driver / Mamadou,bus trip (s),combined,traffix_rules,144.42,3.24
+Bus driver / Mamadou,bus trip (s),combined,traffix,144.47,2.83
+Touhami (ambulance),ambulance trip (s),emergency,fixed,129.56,19.83
+Touhami (ambulance),ambulance trip (s),emergency,actuated,109.78,10.22
+Touhami (ambulance),ambulance trip (s),emergency,junction_only,95.0,6.17
+Touhami (ambulance),ambulance trip (s),emergency,traffix_rules,88.5,6.51
+Touhami (ambulance),ambulance trip (s),emergency,traffix,88.83,3.25
+Touhami (ambulance),ambulance trip (s),combined,fixed,127.5,16.24
+Touhami (ambulance),ambulance trip (s),combined,actuated,106.58,19.33
+Touhami (ambulance),ambulance trip (s),combined,junction_only,94.42,15.44
+Touhami (ambulance),ambulance trip (s),combined,traffix_rules,85.5,10.4
+Touhami (ambulance),ambulance trip (s),combined,traffix,87.42,10.79
+Touhami (ambulance),ambulance stopped (s),emergency,fixed,24.5,6.41
+Touhami (ambulance),ambulance stopped (s),emergency,actuated,10.33,2.89
+Touhami (ambulance),ambulance stopped (s),emergency,junction_only,2.17,1.45
+Touhami (ambulance),ambulance stopped (s),emergency,traffix_rules,0.83,0.76
+Touhami (ambulance),ambulance stopped (s),emergency,traffix,0.83,0.6
+Touhami (ambulance),ambulance stopped (s),combined,fixed,32.17,4.96
+Touhami (ambulance),ambulance stopped (s),combined,actuated,11.0,4.21
+Touhami (ambulance),ambulance stopped (s),combined,junction_only,2.5,2.95
+Touhami (ambulance),ambulance stopped (s),combined,traffix_rules,1.58,1.77
+Touhami (ambulance),ambulance stopped (s),combined,traffix,1.0,1.32
+Sustainability,CO2 per trip (g),offpeak,fixed,349.36,7.65
+Sustainability,CO2 per trip (g),offpeak,actuated,316.24,5.07
+Sustainability,CO2 per trip (g),offpeak,junction_only,320.82,5.82
+Sustainability,CO2 per trip (g),offpeak,traffix_rules,314.91,5.93
+Sustainability,CO2 per trip (g),offpeak,traffix,315.6,6.93
+Sustainability,CO2 per trip (g),morning_peak,fixed,359.7,3.64
+Sustainability,CO2 per trip (g),morning_peak,actuated,328.75,3.76
+Sustainability,CO2 per trip (g),morning_peak,junction_only,329.72,2.3
+Sustainability,CO2 per trip (g),morning_peak,traffix_rules,326.63,4.88
+Sustainability,CO2 per trip (g),morning_peak,traffix,326.23,3.25
+Sustainability,CO2 per trip (g),evening_peak,fixed,351.25,1.11
+Sustainability,CO2 per trip (g),evening_peak,actuated,322.88,2.07
+Sustainability,CO2 per trip (g),evening_peak,junction_only,326.04,1.84
+Sustainability,CO2 per trip (g),evening_peak,traffix_rules,322.89,0.5
+Sustainability,CO2 per trip (g),evening_peak,traffix,323.51,0.27
+Sustainability,CO2 per trip (g),heavy,fixed,1064.83,49.16
+Sustainability,CO2 per trip (g),heavy,actuated,1060.45,105.8
+Sustainability,CO2 per trip (g),heavy,junction_only,965.97,129.13
+Sustainability,CO2 per trip (g),heavy,traffix_rules,870.14,58.45
+Sustainability,CO2 per trip (g),heavy,traffix,858.17,34.27
+Sustainability,CO2 per trip (g),incident,fixed,355.16,7.35
+Sustainability,CO2 per trip (g),incident,actuated,325.63,6.15
+Sustainability,CO2 per trip (g),incident,junction_only,332.83,5.97
+Sustainability,CO2 per trip (g),incident,traffix_rules,330.38,6.01
+Sustainability,CO2 per trip (g),incident,traffix,328.12,5.24
+Sustainability,CO2 per trip (g),emergency,fixed,347.11,6.1
+Sustainability,CO2 per trip (g),emergency,actuated,316.2,3.09
+Sustainability,CO2 per trip (g),emergency,junction_only,319.5,6.66
+Sustainability,CO2 per trip (g),emergency,traffix_rules,316.68,4.21
+Sustainability,CO2 per trip (g),emergency,traffix,317.28,3.94
+Sustainability,CO2 per trip (g),rain,fixed,526.15,30.61
+Sustainability,CO2 per trip (g),rain,actuated,497.24,24.34
+Sustainability,CO2 per trip (g),rain,junction_only,535.33,6.15
+Sustainability,CO2 per trip (g),rain,traffix_rules,559.77,3.32
+Sustainability,CO2 per trip (g),rain,traffix,528.56,17.2
+Sustainability,CO2 per trip (g),bus_disruption,fixed,357.87,2.2
+Sustainability,CO2 per trip (g),bus_disruption,actuated,325.33,2.54
+Sustainability,CO2 per trip (g),bus_disruption,junction_only,328.89,1.07
+Sustainability,CO2 per trip (g),bus_disruption,traffix_rules,324.38,1.93
+Sustainability,CO2 per trip (g),bus_disruption,traffix,324.72,3.89
+Sustainability,CO2 per trip (g),rush_transition,fixed,358.94,2.29
+Sustainability,CO2 per trip (g),rush_transition,actuated,327.2,2.73
+Sustainability,CO2 per trip (g),rush_transition,junction_only,330.98,2.37
+Sustainability,CO2 per trip (g),rush_transition,traffix_rules,325.85,3.27
+Sustainability,CO2 per trip (g),rush_transition,traffix,325.49,2.12
+Sustainability,CO2 per trip (g),ramadan_pre_iftar,fixed,360.42,5.1
+Sustainability,CO2 per trip (g),ramadan_pre_iftar,actuated,334.52,5.09
+Sustainability,CO2 per trip (g),ramadan_pre_iftar,junction_only,338.8,4.51
+Sustainability,CO2 per trip (g),ramadan_pre_iftar,traffix_rules,336.71,3.7
+Sustainability,CO2 per trip (g),ramadan_pre_iftar,traffix,333.57,3.22
+Sustainability,CO2 per trip (g),pre_eid_shopping,fixed,376.33,4.2
+Sustainability,CO2 per trip (g),pre_eid_shopping,actuated,335.44,4.43
+Sustainability,CO2 per trip (g),pre_eid_shopping,junction_only,345.23,7.73
+Sustainability,CO2 per trip (g),pre_eid_shopping,traffix_rules,334.45,5.83
+Sustainability,CO2 per trip (g),pre_eid_shopping,traffix,334.41,5.36
+Sustainability,CO2 per trip (g),combined,fixed,353.1,5.54
+Sustainability,CO2 per trip (g),combined,actuated,326.84,4.11
+Sustainability,CO2 per trip (g),combined,junction_only,328.22,6.59
+Sustainability,CO2 per trip (g),combined,traffix_rules,337.0,5.3
+Sustainability,CO2 per trip (g),combined,traffix,337.2,7.54

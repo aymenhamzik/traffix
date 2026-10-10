@@ -1,0 +1,218 @@
+Warning: Not using public transport line 'L2_south' for routing persons. It has less than two usable stops.
+Warning: Not using public transport line 'L1_west' for routing persons. It has less than two usable stops.
+Warning: Person 'ped471' is jammed on edge ':B3_c1', time=1646.00.
+Warning: Person 'ped616' is jammed on edge ':B3_c1', time=1646.00.
+Warning: Person 'ped679' is jammed on edge ':B3_c1', time=1657.00.
+Warning: Person 'ped1136' is jammed on edge ':F1_c3', time=2467.00.
+Warning: Teleporting vehicle 'veh2122'; waited too long (yield), lane='B3_F3_1', time=2789.00.
+Warning: Vehicle 'veh2122' ends teleporting on edge 'F3_F1', time=2789.00.
+Warning: Teleporting vehicle 'veh3552'; waited too long (yield), lane='B4_F4_1', time=3324.00.
+Warning: Vehicle 'veh3552' ends teleporting on edge 'F4_F3', time=3324.00.
+Warning: Teleporting vehicle 'veh3528'; waited too long (yield), lane='B3_B4_1', time=3378.00.
+Warning: Vehicle 'veh3528' ends teleporting on edge 'B4_F4', time=3378.00.
+Warning: Teleporting vehicle 'veh2962'; waited too long (jam), lane=':F3_5_0', time=3383.00.
+Warning: Teleporting vehicle 'veh3844'; waited too long (jam), lane='fh_e_F4_1', time=3383.00.
+Warning: Teleporting vehicle 'veh2475'; waited too long (yield), lane='B3_F3_1', time=3391.00.
+Warning: Teleporting vehicle 'veh3040'; waited too long (yield), lane=':F3_3_0', time=3395.00.
+Warning: Vehicle 'veh3040' ends teleporting on edge 'F3_F4', time=3395.00.
+Warning: Teleporting vehicle 'veh3730'; waited too long (jam), lane=':F3_5_1', time=3404.00.
+Warning: Teleporting vehicle 'veh4176'; waited too long (jam), lane='mv_n_B4_1', time=3407.00.
+Warning: Person 'ped1163' is jammed on edge ':F3_w1', time=3453.00.
+Warning: Person 'ped1423' is jammed on edge ':F3_w1', time=3455.00.
+Warning: Person 'ped1426' is jammed on edge ':F3_w0', time=3457.00.
+Warning: Person 'ped1243' is jammed on edge ':F3_w0', time=3509.00.
+Warning: Person 'ped1257' is jammed on edge ':F3_w0', time=3552.00.
+Warning: Person 'ped1326' is jammed on edge ':F3_w1', time=3555.00.
+Warning: Person 'ped1461' is jammed on edge ':F3_w0', time=3558.00.
+Warning: Person 'ped1329' is jammed on edge ':F3_w0', time=3627.00.
+Warning: Person 'ped1375' is jammed on edge ':B2_c0', time=3629.00.
+Warning: Teleporting vehicle 'veh2506'; waited too long (yield), lane='B4_F4_1', time=3629.00.
+Warning: Vehicle 'veh2506' ends teleporting on edge 'F4_F3', time=3629.00.
+Warning: Vehicle 'veh4176' ends teleporting on edge 'B4_F4', time=3629.00.
+Warning: Teleporting vehicle 'veh3861'; waited too long (jam), lane='fh_e_F4_1', time=3688.00.
+Warning: Teleporting vehicle 'veh4109'; waited too long (yield), lane='B3_B4_1', time=3693.00.
+Warning: Teleporting vehicle 'veh4067'; waited too long (yield), lane='carthage_s_F3_2', time=3694.00.
+Warning: Person 'ped1233' is jammed on edge ':B2_c0', time=3696.00.
+Warning: Person 'ped1355' is jammed on edge ':F3_w1', time=3696.00.
+Warning: Person 'ped1374' is jammed on edge ':B2_c0', time=3697.00.
+Warning: Person 'ped1414' is jammed on edge ':F3_w1', time=3710.00.
+Warning: Teleporting vehicle 'veh3734'; waited too long (wrong lane), lane='F4_F3_2', time=3718.00.
+Warning: Vehicle 'veh3734' ends teleporting on edge 'F3_B3', time=3718.00.
+Warning: Teleporting vehicle 'veh3250'; waited too long (yield), lane='F3_B3_2', time=3728.00.
+Warning: Vehicle 'veh3250' ends teleporting on edge 'B3_B2', time=3728.00.
+Warning: Vehicle 'veh4067' ends teleporting on edge 'F3_B3', time=3728.00.
+Warning: Teleporting vehicle 'veh3249'; waited too long (yield), lane='B3_F3_1', time=3753.00.
+Warning: Vehicle 'veh3249' ends teleporting on edge 'F3_F1', time=3753.00.
+Warning: Person 'ped1471' is jammed on edge ':F3_w1', time=3758.00.
+Warning: Person 'ped1416' is jammed on edge ':F3_w1', time=3759.00.
+Warning: Teleporting vehicle 'veh3176'; waited too long (yield), lane='F4_B4_2', time=3759.00.
+Warning: Teleporting vehicle 'veh3357'; waited too long (jam), lane='F4_F3_1', time=3759.00.
+Warning: Vehicle 'veh3176' ends teleporting on edge 'B4_B3', time=3759.00.
+Warning: Vehicle 'veh3357' ends teleporting on edge 'F3_F1', time=3759.00.
+Warning: Teleporting vehicle 'veh4093'; waited too long (wrong lane), lane='B4_F4_2', time=3760.00.
+Warning: Teleporting vehicle 'veh4296'; waited too long (yield), lane='mv_n_B4_1', time=3762.00.
+Warning: Person 'ped1104' is jammed on edge ':F3_w0', time=3763.00.
+Warning: Vehicle 'veh3844' ends teleporting on edge 'F4_F3', time=3763.00.
+Warning: Teleporting vehicle 'veh4342'; waited too long (yield), lane='mv_s_F4_2', time=3767.00.
+Warning: Teleporting vehicle 'veh2095'; waited too long (yield), lane='F3_B3_2', time=3784.00.
+Warning: Vehicle 'veh2095' ends teleporting on edge 'B3_B2', time=3784.00.
+Warning: Teleporting vehicle 'veh3888'; waited too long (yield), lane=':F3_3_0', time=3796.00.
+Warning: Vehicle 'veh3888' ends teleporting on edge 'F3_F4', time=3796.00.
+Warning: Person 'ped1349' is jammed on edge ':F3_c0', time=3800.00.
+Warning: Person 'ped1523' is jammed on edge ':F3_c0', time=3800.00.
+Warning: Person 'ped1274' is jammed on edge ':F3_c0', time=3800.00.
+Warning: Person 'ped1382' is jammed on edge ':F3_c0', time=3800.00.
+Warning: Person 'ped1166' is jammed on edge ':F3_c0', time=3801.00.
+Warning: Person 'ped1272' is jammed on edge ':F3_c0', time=3801.00.
+Warning: Person 'ped1412' is jammed on edge ':F3_c0', time=3802.00.
+Warning: Teleporting vehicle 'veh2730'; waited too long (yield), lane=':F3_23_0', time=3806.00.
+Warning: Teleporting vehicle 'veh2587'; waited too long (yield), lane='F3_F1_1', time=3817.00.
+Warning: Vehicle 'veh2475' ends teleporting on edge 'F3_F1', time=3817.00.
+Warning: Teleporting vehicle 'veh3298'; waited too long (yield), lane='F3_F4_2', time=3822.00.
+Warning: Teleporting vehicle 'veh4426'; waited too long (wrong lane), lane='F3_F4_1', time=3823.00.
+Warning: Vehicle 'veh4426' ends teleporting on edge 'F4_B4', time=3823.00.
+Warning: Teleporting vehicle 'veh2744'; waited too long (yield), lane='B2_B3_1', time=3824.00.
+Warning: Teleporting vehicle 'veh2249'; waited too long (yield), lane='fh_w_F1_2', time=3843.00.
+Warning: Vehicle 'veh2730' ends teleporting on edge 'F3_B3', time=3851.00.
+Warning: Teleporting vehicle 'veh2025'; waited too long (jam), lane='B1_B2_1', time=3853.00.
+Warning: Teleporting vehicle 'veh2003'; waited too long (yield), lane='F1_B1_1', time=3859.00.
+Warning: Vehicle 'veh2003' ends teleporting on edge 'B1_B2', time=3859.00.
+Warning: Vehicle 'veh2249' ends teleporting on edge 'F1_B1', time=3859.00.
+Warning: Teleporting vehicle 'veh4693'; waited too long (yield), lane='paris_n_B3_2', time=3865.00.
+Warning: Teleporting vehicle 'veh3313'; waited too long (yield), lane='bab_bhar_B1_1', time=3871.00.
+Warning: Vehicle 'veh3313' ends teleporting on edge 'B1_B2', time=3871.00.
+Warning: Person 'ped1584' is jammed on edge ':F3_c0', time=3876.00.
+Warning: Vehicle 'veh2744' ends teleporting on edge 'B3_F3', time=3900.00.
+Warning: Vehicle 'veh4693' ends teleporting on edge 'B3_F3', time=3908.00.
+Warning: Teleporting vehicle 'veh4176'; waited too long (yield), lane='B4_F4_1', time=3930.00.
+Warning: Vehicle 'veh4109' ends teleporting on edge 'B4_F4', time=3930.00.
+Warning: Vehicle 'veh4176' ends teleporting on edge 'F4_F3', time=3930.00.
+Warning: Teleporting vehicle 'veh2789'; waited too long (yield), lane='F1_B1_1', time=3936.00.
+Warning: Vehicle 'veh2789' ends teleporting on edge 'B1_bab_bhar', time=3936.00.
+Warning: Teleporting vehicle 'veh3356'; waited too long (jam), lane='rome_s_F1_1', time=3951.00.
+Warning: Teleporting vehicle 'veh2287'; waited too long (yield), lane='F3_F1_1', time=3996.00.
+Warning: Teleporting vehicle 'veh3873'; waited too long (yield), lane='fh_e_F4_1', time=3997.00.
+Warning: Teleporting vehicle 'veh2409'; waited too long (yield), lane='F3_F1_1', time=3997.00.
+Warning: Vehicle 'veh3873' ends teleporting on edge 'F4_F3', time=3997.00.
+Warning: Teleporting vehicle 'veh3825'; waited too long (yield), lane='B3_B4_1', time=3998.00.
+Warning: Person 'ped1408' is jammed on edge ':F3_c0', time=4012.00.
+Warning: Teleporting vehicle 'veh3267'; waited too long (yield), lane='B3_F3_1', time=4057.00.
+Warning: Vehicle 'veh3267' ends teleporting on edge 'F3_F1', time=4057.00.
+Warning: Teleporting vehicle 'veh4308'; waited too long (yield), lane='mv_n_B4_1', time=4067.00.
+Warning: Teleporting vehicle 'veh4209'; waited too long (wrong lane), lane='B4_F4_2', time=4073.00.
+Warning: Vehicle 'veh4209' ends teleporting on edge 'F4_F3', time=4073.00.
+Warning: Vehicle 'veh4093' ends teleporting on edge 'F4_F3', time=4101.00.
+Warning: Vehicle 'veh3298' ends teleporting on edge 'F4_B4', time=4107.00.
+Warning: Vehicle 'veh3861' ends teleporting on edge 'F3_B3', time=4120.00.
+Warning: Vehicle 'veh4296' ends teleporting on edge 'F4_F3', time=4143.00.
+Warning: Vehicle 'veh4342' ends teleporting on edge 'B4_B3', time=4148.00.
+Warning: Vehicle 'veh2587' ends teleporting on edge 'B1_rome_n', time=4198.00.
+Warning: Teleporting vehicle 'veh4691'; waited too long (jam), lane='B1_B2_2', time=4210.00.
+Warning: Vehicle 'veh4691' ends teleporting on edge 'B2_B3', time=4210.00.
+Warning: Teleporting vehicle 'veh4692'; waited too long (jam), lane='B1_B2_2', time=4211.00.
+Warning: Vehicle 'veh2025' ends teleporting on edge 'B3_F3', time=4218.00.
+Warning: Teleporting vehicle 'veh4717'; waited too long (jam), lane='B1_B2_2', time=4221.00.
+Warning: Teleporting vehicle 'veh4109'; waited too long (yield), lane='B4_F4_1', time=4231.00.
+Warning: Vehicle 'veh3825' ends teleporting on edge 'B4_F4', time=4231.00.
+Warning: Vehicle 'veh4109' ends teleporting on edge 'F4_F3', time=4231.00.
+Warning: Teleporting vehicle 'veh1861'; waited too long (yield), lane='F1_B1_1', time=4250.00.
+Warning: Vehicle 'veh1861' ends teleporting on edge 'B1_B2', time=4250.00.
+Warning: Vehicle 'veh3356' ends teleporting on edge 'F1_B1', time=4250.00.
+Warning: Teleporting vehicle 'veh3336'; waited too long (yield), lane='bab_bhar_B1_1', time=4257.00.
+Warning: Vehicle 'veh3336' ends teleporting on edge 'B1_B2', time=4257.00.
+Warning: Teleporting vehicle 'veh3313'; waited too long (jam), lane='B1_B2_2', time=4269.00.
+Warning: Teleporting vehicle 'veh4092'; waited too long (yield), lane='F3_F1_1', time=4300.00.
+Warning: Teleporting vehicle 'veh4091'; waited too long (yield), lane='B3_B4_1', time=4302.00.
+Warning: Teleporting vehicle 'veh4716'; waited too long (yield), lane='paris_n_B3_1', time=4319.00.
+Warning: Teleporting vehicle 'veh3508'; waited too long (yield), lane='rome_s_F1_1', time=4326.00.
+Warning: Teleporting vehicle 'veh2266'; waited too long (yield), lane='fh_w_F1_2', time=4334.00.
+Warning: Teleporting vehicle 'veh3287'; waited too long (yield), lane='B3_F3_1', time=4361.00.
+Warning: Vehicle 'veh3287' ends teleporting on edge 'F3_F1', time=4361.00.
+Warning: Vehicle 'veh4717' ends teleporting on edge 'B3_F3', time=4361.00.
+Warning: Vehicle 'veh2287' ends teleporting on edge 'B1_B2', time=4377.00.
+Warning: Vehicle 'veh2409' ends teleporting on edge 'B1_B2', time=4378.00.
+Warning: Vehicle 'veh3313' ends teleporting on edge 'B2_B3', time=4402.00.
+Warning: Teleporting vehicle 'veh4554'; waited too long (jam), lane='mv_n_B4_1', time=4426.00.
+Warning: Vehicle 'veh4692' ends teleporting on edge 'B2_B3', time=4428.00.
+Warning: Vehicle 'veh2962' ends teleporting on edge 'B1_B2', time=4450.00.
+Warning: Teleporting vehicle 'veh4322'; waited too long (wrong lane), lane='B4_F4_2', time=4455.00.
+Warning: Teleporting vehicle 'veh3407'; waited too long (yield), lane='B1_B2_1', time=4469.00.
+Warning: Vehicle 'veh3730' teleports beyond arrival edge 'F1_B1', time=4470.00.
+Warning: Teleporting vehicle 'veh3905'; waited too long (yield), lane='fh_e_F4_1', time=4492.00.
+Warning: Vehicle 'veh3905' ends teleporting on edge 'F4_F3', time=4492.00.
+Warning: Teleporting vehicle 'veh3589'; waited too long (yield), lane='B4_F4_1', time=4494.00.
+Warning: Vehicle 'veh3589' ends teleporting on edge 'F4_F3', time=4494.00.
+Warning: Vehicle 'veh4554' ends teleporting on edge 'B4_F4', time=4494.00.
+Warning: Vehicle 'veh4716' ends teleporting on edge 'B3_F3', time=4513.00.
+Warning: Vehicle 'veh4308' ends teleporting on edge 'F4_F3', time=4570.00.
+Warning: Vehicle 'veh4322' ends teleporting on edge 'F4_F3', time=4572.00.
+Warning: Teleporting vehicle 'veh4533'; waited too long (yield), lane='carthage_s_F3_2', time=4601.00.
+Warning: Teleporting vehicle 'veh4107'; waited too long (yield), lane='B3_B4_1', time=4607.00.
+Warning: Vehicle 'veh4107' ends teleporting on edge 'B4_F4', time=4607.00.
+Warning: Vehicle 'veh4533' ends teleporting on edge 'F3_B3', time=4662.00.
+Warning: Teleporting vehicle 'veh1961'; waited too long (yield), lane='B3_F3_1', time=4664.00.
+Warning: Vehicle 'veh1961' ends teleporting on edge 'F3_F1', time=4664.00.
+Warning: Vehicle 'veh4092' ends teleporting on edge 'B1_B2', time=4681.00.
+Warning: Vehicle 'veh4091' ends teleporting on edge 'F4_F3', time=4683.00.
+Warning: Vehicle 'veh3508' ends teleporting on edge 'B1_bab_bhar', time=4707.00.
+Warning: Vehicle 'veh2266' ends teleporting on edge 'B1_B2', time=4715.00.
+Warning: Teleporting vehicle 'veh2928'; waited too long (yield), lane='B1_B2_1', time=4774.00.
+Warning: Vehicle 'veh2928' ends teleporting on edge 'B2_B3', time=4774.00.
+Warning: Teleporting vehicle 'veh3611'; waited too long (yield), lane='rome_s_F1_1', time=4788.00.
+Warning: Teleporting vehicle 'veh3350'; waited too long (jam), lane='F4_F3_1', time=4820.00.
+Warning: Teleporting vehicle 'veh2004'; waited too long (yield), lane='F1_B1_1', time=4827.00.
+Warning: Vehicle 'veh2004' ends teleporting on edge 'B1_B2', time=4827.00.
+Warning: Vehicle 'veh3611' ends teleporting on edge 'F1_B1', time=4827.00.
+Warning: Teleporting vehicle 'veh3363'; waited too long (yield), lane='bab_bhar_B1_1', time=4828.00.
+Warning: Vehicle 'veh3363' ends teleporting on edge 'B1_B2', time=4828.00.
+Warning: Teleporting vehicle 'veh3971'; waited too long (wrong lane), lane='F3_B3_1', time=4872.00.
+Warning: Vehicle 'veh3971' ends teleporting on edge 'B3_B2', time=4872.00.
+Warning: Teleporting vehicle 'veh2972'; waited too long (yield), lane='B2_B1_2', time=4873.00.
+Warning: Vehicle 'veh2972' ends teleporting on edge 'B1_F1', time=4873.00.
+Warning: Teleporting vehicle 'veh4523'; waited too long (yield), lane='mv_s_F4_2', time=4876.00.
+Warning: Teleporting vehicle 'veh3944'; waited too long (yield), lane='F3_B3_2', time=4876.00.
+Warning: Vehicle 'veh3944' ends teleporting on edge 'B3_B2', time=4876.00.
+Warning: Teleporting vehicle 'veh1541'; waited too long (yield), lane='B3_B2_2', time=4877.00.
+Warning: Vehicle 'veh1541' ends teleporting on edge 'B2_B1', time=4877.00.
+Warning: Teleporting vehicle 'veh4327'; waited too long (yield), lane='F3_F1_1', time=4891.00.
+Warning: Vehicle 'veh3350' ends teleporting on edge 'F3_F1', time=4891.00.
+Warning: Teleporting vehicle 'veh3759'; waited too long (yield), lane='B3_B2_1', time=4894.00.
+Warning: Vehicle 'veh3759' ends teleporting on edge 'B2_B1', time=4894.00.
+Warning: Teleporting vehicle 'veh2308'; waited too long (yield), lane='fh_w_F1_2', time=4922.00.
+Warning: Teleporting vehicle 'veh4211'; waited too long (yield), lane='B3_B4_1', time=4941.00.
+Warning: Vehicle 'veh3407' ends teleporting on edge 'F3_F1', time=4946.00.
+Warning: Teleporting vehicle 'veh3536'; waited too long (yield), lane='F1_F3_2', time=4961.00.
+Warning: Vehicle 'veh3536' ends teleporting on edge 'F3_B3', time=4961.00.
+Warning: Teleporting vehicle 'veh2977'; waited too long (yield), lane='F1_B1_1', time=4982.00.
+Warning: Vehicle 'veh2977' ends teleporting on edge 'B1_B2', time=4982.00.
+Warning: Teleporting vehicle 'veh3589'; waited too long (wrong lane), lane='F3_F1_2', time=4988.00.
+Warning: Vehicle 'veh4523' ends teleporting on edge 'F4_B4', time=5077.00.
+Warning: Teleporting vehicle 'veh3364'; waited too long (yield), lane='B3_F3_1', time=5142.00.
+Warning: Teleporting vehicle 'veh4281'; waited too long (yield), lane='fh_e_F4_1', time=5199.00.
+Warning: Vehicle 'veh4281' ends teleporting on edge 'F4_F3', time=5199.00.
+Warning: Teleporting vehicle 'veh3420'; waited too long (yield), lane='bab_bhar_B1_1', time=5208.00.
+Warning: Vehicle 'veh3420' ends teleporting on edge 'B1_B2', time=5208.00.
+Warning: Teleporting vehicle 'veh2266'; waited too long (yield), lane='B1_B2_1', time=5243.00.
+Warning: Vehicle 'veh2266' ends teleporting on edge 'B2_B3', time=5243.00.
+Warning: Teleporting vehicle 'veh3636'; waited too long (yield), lane='rome_s_F1_1', time=5245.00.
+Warning: Teleporting vehicle 'veh4222'; waited too long (yield), lane='B3_B4_1', time=5246.00.
+Warning: Vehicle 'veh4222' ends teleporting on edge 'B4_F4', time=5246.00.
+Warning: Vehicle 'veh4327' ends teleporting on edge 'B1_B2', time=5272.00.
+Warning: Vehicle 'veh4211' ends teleporting on edge 'B4_F4', time=5285.00.
+Warning: Teleporting vehicle 'veh3083'; waited too long (yield), lane='F1_B1_1', time=5287.00.
+Warning: Vehicle 'veh2308' ends teleporting on edge 'F1_B1', time=5287.00.
+Warning: Vehicle 'veh3083' ends teleporting on edge 'B1_B2', time=5287.00.
+Warning: Teleporting vehicle 'veh3492'; waited too long (wrong lane), lane='F3_B3_1', time=5299.00.
+Warning: Teleporting vehicle 'veh2439'; waited too long (yield), lane='F3_B3_2', time=5299.00.
+Warning: Vehicle 'veh2439' ends teleporting on edge 'B3_B2', time=5299.00.
+Warning: Vehicle 'veh3492' ends teleporting on edge 'B3_B2', time=5299.00.
+Warning: Teleporting vehicle 'veh3121'; waited too long (yield), lane='F1_F3_2', time=5332.00.
+Warning: Vehicle 'veh3121' ends teleporting on edge 'F3_B3', time=5332.00.
+Warning: Teleporting vehicle 'veh2092'; waited too long (yield), lane='F3_F1_1', time=5348.00.
+Warning: Vehicle 'veh3364' ends teleporting on edge 'F3_F1', time=5348.00.
+Warning: Teleporting vehicle 'veh4577'; waited too long (wrong lane), lane='F3_F1_2', time=5349.00.
+Warning: Teleporting vehicle 'veh4743'; waited too long (yield), lane='carthage_s_F3_2', time=5360.00.
+Warning: Teleporting vehicle 'veh4631'; waited too long (yield), lane='B3_F3_2', time=5363.00.
+Warning: Vehicle 'veh4631' ends teleporting on edge 'F3_carthage_s', time=5363.00.
+Warning: Teleporting vehicle 'veh2344'; waited too long (yield), lane='fh_w_F1_2', time=5368.00.
+Warning: Vehicle 'veh3589' ends teleporting on edge 'B1_B2', time=5369.00.

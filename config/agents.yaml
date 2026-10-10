@@ -1,0 +1,49 @@
+# Agent and safety settings. Safety rules are never learned.
+safety:
+  min_green: 5                 # s
+  yellow: 3                    # s
+  max_clearance_hold: 30       # s
+  clearance_speed: 1.07        # m/s design walking speed
+  exit_full_ratio: 0.85
+  stale_after: 10              # s
+
+# Fixed priority order used by every master (highest first)
+priority_order: [safety, emergency, supermaster_directive, transit, pedestrian, normal]
+
+traffic_light:                 # max-pressure parameters (tuned by training)
+  ped_weight: 0.5
+  switch_margin: 0.0
+  downstream_queued_only: true
+  fallback_fixed_green: 30
+  actuated_gap: 3
+  actuated_max_green: 45
+
+pedestrian:
+  max_wait: 45                 # s, rule fallback: request a walk signal after this
+  heat_max_wait: 30            # during heat (weather directive)
+
+transit:
+  late_factor: 1.5             # gap > 1.5 x headway = late bus
+  detect_distance: 120         # m
+  max_extension: 20            # s
+
+emergency:
+  detect_distance: 200         # m
+  prepare_horizon: 40          # s, route coordinator warns junctions this far ahead
+
+incident:
+  persist: 45                  # s (rule fallback)
+  min_confidence: 0.6
+
+weather:
+  rain_extra_yellow: 1         # s added to yellow in rain (directive)
+  rain_extra_clearance: 3      # s added to clearance in rain
+
+corridor:
+  platoon_weight: 0.3          # tuned by training
+  horizon: 20                  # s of upstream travel counted as "arriving soon"
+
+rerouting:
+  min_saving: 20               # s per vehicle
+
+models_dir: models

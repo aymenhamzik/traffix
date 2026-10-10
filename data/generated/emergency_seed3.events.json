@@ -1,0 +1,12 @@
+{
+ "scenario": "emergency",
+ "seed": 3,
+ "start": "2026-10-14 11:00",
+ "duration": 3600,
+ "events": {
+  "ambulances": {
+   "count": 6
+  }
+ },
+ "vehicles": 2056
+}
