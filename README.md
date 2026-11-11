@@ -217,7 +217,3 @@ It is played by the executor, which stays the only code that writes lights.
 - Notification relevance labels are our own rules.
 - The forecasting agent reads national holiday *dates* (public facts) from `calendar.yaml`, never the factors.
 
-## 10. Suggested team split
-Masters + safety rules · junction agents · network agents (incident, rerouting, weather) ·
-network agents (forecast, corridor, transit) · training + experiments · frontend.
-Bus driver persona name "Hédi" is a placeholder.
