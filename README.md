@@ -1,4 +1,4 @@
-# TraffiX v2 · Hierarchical multi-agent traffic control for central Tunis
+# TraffiX  · Hierarchical multi-agent traffic control for central Tunis
 
 Junction agents advise. Each junction's **master** decides and is the only writer of its light.
 A **supermaster** with eight network agents coordinates the masters. Seven persona pages show the result.
